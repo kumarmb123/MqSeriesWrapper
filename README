@@ -1,0 +1,4 @@
+This is a C# wrapper for the "MQ Series" (the old name)
+https://en.wikipedia.org/wiki/IBM_WebSphere_MQ
+
+Compiles & Runs with .NET 1.1
