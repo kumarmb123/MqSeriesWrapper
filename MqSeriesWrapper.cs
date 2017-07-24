@@ -5,7 +5,7 @@ namespace MqSeriesWrapper
 
     public class MqManager
     {
-        IBM.WMQ.MQQueueManager _mqQueueManager;
+        IBM.WMQ.MQQueueManager _qQueueManager;
         SortedList _existingQueues;
 
         public MqManager()
